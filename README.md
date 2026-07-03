@@ -9,7 +9,7 @@ A bash script to test HTTP 403 Forbidden bypass techniques.
 - Protocol bypass (HTTP vs HTTPS)
 
 ## Usage
-chmod +x 403bypass.sh
+chmod +x 403bypass.sh 
 ./403bypass.sh https://target.com/path
 
 ## Output
